@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "com.jwttest.RsaConfig",
+      "sourceType": "com.jwttest.RsaConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.jwttest.RsaConfig"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.jwttest.RsaConfig"
+    }
+  ],
+  "hints": []
+}
